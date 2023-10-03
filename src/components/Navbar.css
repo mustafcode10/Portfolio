@@ -42,10 +42,5 @@
     flex: 2;
 }
 
-.n-button:hover{
-    background: white;
-    cursor: pointer;
-    color: var(--orange);
-    border: 1px solid var(--orange);
-}
+
 
